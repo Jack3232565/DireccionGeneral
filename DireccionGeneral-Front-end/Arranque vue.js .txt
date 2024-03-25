@@ -1,0 +1,22 @@
+-- Para arrancar el proyecto Instala las dependecias
+-- entra a la carpeta del proyecto hasta visualizar 
+-- el package.json
+
+    npm i --force
+
+-- Una vez instaladas las dependencias arranca el proyecto con
+
+    npm run serve
+
+-- si no estas seguro puedes entrar al package.json
+en el apartado de scripst
+
+ "serve": "vue-cli-service serve",
+
+pasa el cursor sobre "serve" y dale    | run o Ejecutar Scrips | cuando aparesca la ventana
+
+entra a la url que indica en que puerto esta el local host
+                                                                                                         
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://192.168.1.29:8080/
