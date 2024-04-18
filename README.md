@@ -68,6 +68,11 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 
 ![OrganigramaHospital](img/EstOrg.jpeg)
 
+|![OrganigramaHospital](img/1.png)| Dentro de lo que se destaca de la organización en la estructura de la dirección general se tiene el departamento de seguimiento de calidad que vigila cada uno de los procesos llevados acabo como la atención a quejas y demandas, salva guardado de datos confidenciales de los pacientes como de archivos clínicos, y la programación y aprobación de intervenciones quirúrgicas.
+
+Dado a la descripción anterior esta es la cabecera del hospital, de aquí se divide en dos ramales principales que son la Sub dirección Médica y Sub Dirección Administrativa. La primera engloba todos los servicios que se ejercen para la práctica médica profesional, mientras la segunda se encarga de administrar los procesos que se llevan a cabo dentro del hospital tanto como internos como externos.|
+
+
 ## Requerimientos funcionales
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
