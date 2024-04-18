@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.20380c9f-c276-45a3-8eb3-b9011bc48036.001.png)![](Aspose.Words.20380c9f-c276-45a3-8eb3-b9011bc48036.002.png)Administración de Base de Datos
+﻿![](/img/Aspose.Words.20380c9f-c276-45a3-8eb3-b9011bc48036.001.png)![](Aspose.Words.20380c9f-c276-45a3-8eb3-b9011bc48036.002.png)Administración de Base de Datos
 
 ![](Aspose.Words.20380c9f-c276-45a3-8eb3-b9011bc48036.003.png)
 
