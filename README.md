@@ -280,4 +280,6 @@ Este tipo de requerimientos es lo que el usuario no puede visualizar, sin embarg
 
 
 ## Documentación Completa
-**![Dirección General](/Documentacion/)** 
+
+**![RF](img/documentacion.png)** 
+**![](/Documentacion/)** 
