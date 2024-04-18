@@ -198,7 +198,7 @@ En esta etapa del estudio será posible también calcular aproximadamente la "po
 Al terminar los cálculos descritos, será posible establecer, en términos generales, la capacidad necesaria del edificio para las diversas secciones del hospital. Será posible asimismo calcular la demanda que el hospital hará de los servicios públicos, tales como agua, electricidad, gas y alcantarillado. 
 
 
-## PROPUESTAS DE FRONTEND
+## Propuesta Frond-End
 
 |**Sketch** |**Descripción** |
 | - | - |
@@ -230,6 +230,10 @@ Al terminar los cálculos descritos, será posible establecer, en términos gene
 |**![frontend](img/m8.png)** |La siguiente vista proporciona información de los materiales solicitados de los departamentos, de modo que cada solicitud debe ser atendida de acuerdo a su escasez o inexistencia en el inventario del hospital, la tabla solo es representativa al igual que el grafico, dentro del esquema se pretende agregar todos los elementos posibles para detallar mas la información, dado que las compras dependerán del presupuesto y la aprobación de los bienes, los cuales deben ser inventariados en el sistema para asegurar existencias y inexistencias evitando que se gaste mas del presupuesto solicitado por los departamentos en el ejercicio del hospital. |
 |**![frontend](img/m9.png)** |La vista de Normativa y Procedimientos, ejemplifica todas las actividades que se pueden ejercer legalmente y sustentada para el ejercicio de la medicina, la parte legal es importante para todos los hospitales que realizan prestación de servicio médico en materia de consulta médica, intervenciones quirúrgicas, trasplantes, transfusiones y donación de órganos. Cada ley, procedimiento, protocolo, normativa oficial sustenta, organiza y ejecuta, el correcto ejercicio de la prestación de servicios por lo que las actividades no relacionadas o que no se incluyan en estos, quedaran extensos a sanciones, multas o revocación de licencias, permisos y suspensiones definitivas de toda actividad relacionada con la actividad clínica y atención en todos los niveles de salud. |
 
+## Requerimientos Funcionales
+
+**![RF](img/rf1.png)** 
+**![RF](img/rf2.png)** 
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
 | - | - | - |
