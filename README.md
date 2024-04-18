@@ -16,8 +16,10 @@
 <div style="text-align: justify">
 
 Los servicios de hoy se han adaptado a la mejora constante de los recursos digitales, sin embargo, hay algunos modelos de negocios que se reúsan al cambio de dirección y coordinación de la modularidad de sus servicios, es por ello que el cambio podría afectar el modelo para mejorar su capacidad de organización, y es claro el enfoque a la modernidad puede pesar un poco de dependiendo a la capacidad de aprender de los sectores. El área medica no es la excepción, desde muchos años el sector salud ha tenido muy poco desarrollo y actualización en sus procesos de atención y esto es por las siguientes causas:
+
 La mayoría de los servicios que se prestan en un hospital deben de ser atendidos de manera inmediata sin retraso, ya que los servicios que se brindan dependen de la óptima atención de los detalles para resolver los casos médicos.
 El uso de la tecnología en la rama medica ha dado brincos altos, pero solo en las áreas de aplicación y procedimientos, no en la gestión de como debe de llevar su manera de trabajo. 
+
 Los servicios que en la actualidad están disponibles se han implementado en el sector privado y público, son demasiado caros para adquirirlos y mas aun llevar un control en su mantenimiento, sin embargo, se podría solventar el flujo de información que se genera en un hospital para acelerar el proceso de automatización y análisis oportuno de la documentación generada por cada paciente, área, procedimientos, tratamiento e historial clínico más detallado, disponible en todo momento con una actualización con la documentación mas reciente de los procedimientos médicos realizados de cada uno de los pacientes, así como el control de la medicación, intervenciones quirúrgicas y tratamientos, así como un historial mas detallado desde la niñes hasta la adultes.  
 
 El trabajo seria manejar la información disponible generada en un hospital para optimizar mejor las áreas que lo requieran, así se agilizarían mejor los procesos administrativos que pueden afectar la atención oportuna de los pacientes, así como la mejora de la calidad de salud de estos. Tanto el personal de atención médica (médicos generales, enfermeras, especialistas, químicos, técnicos, ingenieros, licenciados legales, psicólogos, personal auxiliar y voluntarios), estarían involucrados directamente en la dinámica de la administración oportuna del hospital.
@@ -51,13 +53,17 @@ Sin embargo las actualizaciones pueden ser pocas o debido a que la infraestructu
 Todo lo mencionado estará sujeto a las políticas existentes para el manejo de la información y protección de datos, por lo que es importante la implementación de la seguridad informática encriptando la información confidencial que pudiese ser tomada por personal ajeno al autorizado, sin embargo, esto dependerá del nivel de seguridad que se dese implementar. 
 
 
-## Organigrama de la empresa
+## Organización de la Empresa
 
-Este organigrama proporciona una estructura general para un hospital, puede adaptarse
-según las necesidades específicas de cada hospital o cada clínica. Las áreas principales,
-como Dirección General, Subdirección médica, subdirección administrativa, departamento
-de calidad, Finanzas y Recursos Humanos aseguran una gestión eficiente del hospital,
-abordando tanto las necesidades operativas como las estratégicas para el éxito de la clínica
+Cada una de las unidades clínicas que dan servicio están sujetas a una estricta organización que las sujeta a brindar un servicio eficiente, es por ello que el modelo que se seguirá esta en base al sistema de gestión de servicio público de tercer nivel de atención médica, la cual aborda una amplia gama de servicios de atención.
+
+Todas las instituciones públicas como privadas cuentan con una dirección general que administra y supervisa el ejercicio dentro del trabajo diario de sus centros de atención, es por ello que la organización está establecida para otorgar y organizar los servicios integrales que ejerce cada departamento a su cargo. Siendo la cabeza, la Dirección General se encargará de supervisar y atender las necesidades de los departamentos que integra la unidad médica, como primera instancia se encuentra la junta de gobierno, encargada de mantener y ejecutar la idealización de una atención oportuna para los derechohabiente poniendo en primer lugar buscar las mejores soluciones que puedan salvaguardar la vida preservando la salud  como prevención oportuna, por lo que  considera de ejecutar y organizar los planes de acción para la mejora de la comunidad, aquí se establecen las políticas y las normas, además de integrar la misión y la visión que la unidad medica proyecta para el futuro. 
+
+Dentro de la estructura Organizacional de la dirección general se toman todas las decisiones que ayuden a mejorar la atención médica, a qui se integra la dirección de cada uno de los departamentos, creando una comitiva estructurada para la toma de decisiones de alto impacto para toda la unidad médica, a nivel institucional su estructura es la que organiza en cierta medida como se solventarán las demandas correspondientes a cada departamento. 
+
+Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital, se integra un comité de trasplantes que junto a la dirección de alta especialidad como comité legal realizan y priorizan la candidatura a personas que necesitan de estos tratamientos delicados, por lo que se maneja una responsabilidad enorme dentro de este comité.
+
+
 
 
 ![OrganigramaHospital](Img/OrganigramaHospital.png)
