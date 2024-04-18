@@ -66,7 +66,7 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 
 
 
-![OrganigramaHospital](img/EstOrg.png)
+![OrganigramaHospital](img/EstOrg.jpeg)
 
 ## Requerimientos funcionales
 
