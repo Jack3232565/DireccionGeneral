@@ -218,7 +218,7 @@ Al terminar los cálculos descritos, será posible establecer, en términos gene
 
 
 
-|**Mockups** |**Descripción** |
+|**Mockups en Django.js** |**Descripción** |
 | - | - |
 |**![frontend](img/m1.png)** | Las estructuras antes mencionadas son el referente en el diseño que se desea realizar, para hacer una vista más específica de las ideas se planteó el desarrollo de Mockops, que permitirán hacer un muestreo de lo que se plantea en el proyecto:La primera vista propuesta es la pagina de inicio que permitirá visualizar de manera general el contenido principal del sitio web, en ella se encuentran enlaces y vínculos a los departamentos de atención médica. |
 |**![frontend](img/m2.png)** | El menú principal integra un conjunto de submenús que enlazan a las secciones principales de consulta con prioridad: Dado a que a que la construcción del proyecto se basa en la estructura de la sección de Dirección General, se ha incluido el apartado dentro del menú principal.|
@@ -229,6 +229,14 @@ Al terminar los cálculos descritos, será posible establecer, en términos gene
 |**![frontend](img/m7.png)** |La Siguiente vista ejemplifica la vinculación desde el menú principal de dirección general a la sección de Clínica y Hospitalización, que integra la información de atención medica a pacientes hospitalizados e historial de ingresos y reingresos del servicio médico especializado, detallando todos los registros por paciente y la gravedad por sintomatología, recuperación y defunciones. En la vista no se incluyen los gastos que conlleva la hospitalización, sin embargo, estos se agregarán dentro del plan de negocios del análisis de datos que entren a la base de datos, esto ayudará a determinar con más precisión los datos estadísticos, lo que permitirá anticipar y calcular el presupuesto solicitado para atender las demandas de la población asignada para este hospital.  |
 |**![frontend](img/m8.png)** |La siguiente vista proporciona información de los materiales solicitados de los departamentos, de modo que cada solicitud debe ser atendida de acuerdo a su escasez o inexistencia en el inventario del hospital, la tabla solo es representativa al igual que el grafico, dentro del esquema se pretende agregar todos los elementos posibles para detallar mas la información, dado que las compras dependerán del presupuesto y la aprobación de los bienes, los cuales deben ser inventariados en el sistema para asegurar existencias y inexistencias evitando que se gaste mas del presupuesto solicitado por los departamentos en el ejercicio del hospital. |
 |**![frontend](img/m9.png)** |La vista de Normativa y Procedimientos, ejemplifica todas las actividades que se pueden ejercer legalmente y sustentada para el ejercicio de la medicina, la parte legal es importante para todos los hospitales que realizan prestación de servicio médico en materia de consulta médica, intervenciones quirúrgicas, trasplantes, transfusiones y donación de órganos. Cada ley, procedimiento, protocolo, normativa oficial sustenta, organiza y ejecuta, el correcto ejercicio de la prestación de servicios por lo que las actividades no relacionadas o que no se incluyan en estos, quedaran extensos a sanciones, multas o revocación de licencias, permisos y suspensiones definitivas de toda actividad relacionada con la actividad clínica y atención en todos los niveles de salud. |
+
+
+|**Mockups en Vue.js** |**Descripción** |
+| - | - |
+|**![frontend](img/v1.png)** | La pagina de inicio de la Dirección General se propone de la siguiente en la siguiente imagen, a diferencia de la plantilla propuesta en Django anterior mente mencionada, se simplifican más el concepto agregando elemento minimalistas, objetando las principales funciones que gestionara esta área.|
+|**![frontend](img/v2.png)** | La siguiente vista corresponde al CRUD que permitirá editar todas las solicitudes presente que atenderá esta área, en el se visualiza el comportamiento de las solicitudes de acuerdo al mes, evaluando donde corresponde mejorar la gestión hospitalaria de acuerdo a la demanda.|
+|**![frontend](img/v3.png)** | La siguiente vista corresponde a la visualización de los servicios hospitalarios que se prestan en el hospital. Funcionado como una tabla catalogo en ella se mencionan los departamentos y las solicitudes de las áreas correspondientes para brindar su apoyo. |
+|**![frontend](img/v4.png)** | Como en la anterior vista, de igual manera se visualiza una tabla catalogo pero en ella se muestran los servicios que ha prestado el hospital, relacionado las solicitudes y las áreas de atención. |
 
 ## Requerimientos Funcionales
 
@@ -242,6 +250,31 @@ Los requerimientos Funcionales son una parte esencial del proyecto, de ellos dep
 Este tipo de requerimientos es lo que el usuario no puede visualizar, sin embargo, son la parte clave en la configuración del sistema, obedeciendo al esquema lógico y el comportamiento esperado en la configuración de la programación.  
 
 **![RF](img/rnf1.png)** 
+
+
+## Reglas de Negocio 
+
+1.	Para crear nuevas tablas dentro del sitio web solo se podrán realizar dentro del Framework de desarrollo en Django, esto permitirá que en cada migración la estructura diseñada para el manejo de los datos se respete y no provoque problemas en la compilación de la información.
+
+2.	El usuario con las credenciales de acceso permitidas podrá ingresar dentro del entorno de MySQL, teniendo los privilegios de consulta, actualización y eliminación de la información, sin embargo, los cambios que realice en la estructura de las tablas no se guardarán debido a que la estructura esta configurada desde Django por lo que en cada migración restaurará la estructura de los modelos que se han establecido.  
+
+3.	Los modelos configurados en Django solo podrán ser vinculados por la configuración desde el root, serializador, administrador, por lo que se necesitan credenciales de usuario para la consulta de estos modelos creados en el API, esto asignará una ruta única de enlace dentro de la conexión establecida. 
+
+4.	Los privilegios solo se podrán otorgar desde la administración principal de Django para las consultas internas hacia los modelos de la API.
+
+5.	Para la vinculación de inicio de sesión mediante Google es necesario crear una cuenta que permita administrar la API de Google, esta otorgará la credencial y llave única para dar acceso a la aplicación que se está desarrollando, esto restringirá el acceso solo a personal autorizado.
+
+6.	Como protección del proyecto las variables de entorno deben de estar ocultas para evitar conflictos futuros o en producción, estas variables se utilizan para almacenar información específica del usuario, como la ruta de acceso a una instalación local de bibliotecas que no deben ser utilizadas por todos los usuarios, valores específicos de programas instalados sólo para usuarios concretos, por lo que este método de seguridad permitirá salvaguardar la información principal del sistema y datos. 
+
+7.	Para la búsqueda específica de la información que se encuentra en las tablas de las páginas con acceso restringido se debe de implementar un script único que se active al llamar la solicitud buscar, esto vinculado a una etiqueta única que responda a esta solicitud, esto evitará que se busque información no validada e inexistente de la tabla. 
+
+8.	La configuración de estilos debe de respetar los parámetros establecidos por la guía de colores y estilos del proyecto, para una optimización del uso de estilos se puede utilizar CSS puro u frameworks de estilización como lo es Bootstrap o Tailwind, por lo que se deberán instalar sus librerías para una mejor optimización en los procesos de desarrollo evitando depender en todo momento de una conexión constante a internet, sin embargo, esto permitiría aligerar el peso del proyecto de cierto modo.
+
+9.	Cada cambio en la maquetación y codificación en el desarrollo del proyecto debe ser comentado de manera escrita y respaldado en copias de seguridad, esto permitirá corregir errores en la operación de los servicios y módulos conectados, el versionamiento de cada proceso es importante registrando a los involucrados en el desarrollo.
+
+10.	  Al igual que con las tablas el buscador principal que se planteó para el menú de inicio debe de relacionar la búsqueda especifica en todo el sitio web por lo que su configuración debe de obedecer a la integración de todos los módulos que se integran en el Body del HTML, esta configuración script debe de integrarse en todas las vistas donde aparezca el menú principal. 
+
+
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
 | - | - | - |
