@@ -64,12 +64,10 @@ Dentro de la estructura Organizacional de la dirección general se toman todas l
 Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital, se integra un comité de trasplantes que junto a la dirección de alta especialidad como comité legal realizan y priorizan la candidatura a personas que necesitan de estos tratamientos delicados, por lo que se maneja una responsabilidad enorme dentro de este comité.
 
 
-
-
 ![OrganigramaHospital](img/EstOrg.jpeg)
 
 
-## Requerimientos funcionales
+## Áreas Hospitalarias Involucradas 
 
 |**Modulo** |**Descripción** |
 | - | - |
@@ -82,6 +80,30 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 |**![OrganigramaHospital1](img/6.png)** |La subdirección de Administración es un ramal con una organización que administra los recursos y actividades que giran en torno al hospital, dividida en departamentos documenta los procesos y protocolos a seguir para su ejercicio, involucrando principalmente el área de recursos humanos encargada de la administración del personal que labora en todas las áreas del hospital llevando y registrando en el área de almacenamiento de información útil para los datos históricos de sus empleados. Se encuentra el área de dietética que lleva los registros de nutrición de pacientes y los tratamientos administrados para la mejora de su condición. Se Encuentra el área de Farmacia que administra y suministra los medicamentos para las áreas requeridas y a los pacientes que lo necesitan. Se encuentra el área de asuntos legales y jurídicos que supervisan las actividades realizadas de acuerdo a las normativas y legalidades de los procedimientos médicos ejercidos dentro de la instalación hospitalaria junto al departamento de vigilancia y seguridad supervisan el orden y correcta ejecución de las actividades clínicas. |
 
 
+La colaboración de departamentos es esencial para una operación optimizada, es por ello que la organización dependerá la aprobación de ciertos sectores de acuerdo a la prioridad de las demandas y las necesidades a atender para una mejora del servicio, tal es el caso de la supervisión de los recursos financieros que equipará a los sectores con mayor prioridad, junto al área de recursos materiales y la de validación operarán en conjunto, y se dará mantenimiento a las instalaciones de acuerdo a los periodos establecidos por las normativas por el estado, todos los recursos disponibles y surtidos deben de ser inventariados y almacenados en perfecto estado para su uso en el hospital, así se asegura que se brinda servicio de calidad con une equipamiento de tercer nivel de atención médica.    
+
+Las relaciones publicas con los sectores involucrados permitirán tanto la activación de la materialización del hospital como la entrada de nuevas tecnologías de uso médico, y relaciones publicas con personal de alta especialización con otros hospitales del país, lo que abrirá al sector publico y privado una seguridad de que los procedimientos médicos cumplen con los estándares de calidad y servicio. 
+
+Para la operación del hospital es imprescindible el departamento de intendencia y ropería, siendo aplicando las metodologías de asepsia calificada para las actividades clínicas y quirúrgicas que son esenciales en la operación del hospital.
+
+El área administrativa cuenta con el área de informática y aplicación tecnológica en la salud operando en manera conjunta para brindar un servicio medico de calidad para los usuarios del hospital.
+Dentro de la administración del hospital es fundamental llevar un registro de todos sus derecho habientes e intervenciones y procedimientos que se han llevado, por lo que cada paciente tendrá un registro de las actividades clínicas y procedimientos que se han administrado para mejorar la calidad de vida. 
+
+
+## Proceso De Negocio
+
+Anterior mente se ha comentado de manera general como esta organizada la operación del servicio médico, al entender que cada sector lleva un mando de responsabilidad y actividades específicas, es por ello que se abordará solo en las actividades operativas que se ejecutan dentro de la dirección general del hospital, siendo la cabeza central que administra en conjunto todos los departamentos que involucra las actividades clínicas ejercidas, se especializa en generar datos que aprueben y avalen todos los procedimientos que se ejecutan en las instalaciones. 
+
+Dentro de los parámetros operacionales del hospital se mencionarán algunos procedimientos que permiten hacer una correcta dirección.
+
+## Planificación
+
+La planificación de hospitales en escala regional permite una distribución mejor y más equitativa de los servicios, particularmente en las comunidades menos prósperas, donde las necesidades suelen ser mayores. También permite ejercer cierto control que asegure un nivel relativamente uniforme de atención médica en toda la región.
+
+Cabe destacar que la administración de un hospital dependerá del nivel de atención a las necesidades de la población a quien van dirigido los servicios. La OMS (Organización Mundial de la salud) distingue tres tipos de hospitales:
+
+
+1)	El hospital regional, destinado a proporcionar toda clase de tratamientos incluso los especializados como los de radioterapia, neurocirugía, cirugía torácica y cirugía plástica. Siempre que fuera posible, este hospital comprendería o estaría vinculado a escuelas o facultades de medicina, estratégicamente localizado en la región a fin de que todos los pacientes que necesitaran sus servicios altamente especializados pudieran ser enviados fácilmente a él. 
 
 
 
@@ -99,6 +121,7 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 |**RF8** |Requisito no funcional |Proporcionar materiales de formación y documentación para los usuarios, asegurando que comprendan cómo utilizar el sistema de manera efectiva y segura. |
 |**RF9** |Requisito no funcional |Permitir actualizaciones del sistema sin interrupciones sig- nificativas en el servicio, especialmente durante momentos críticos de atención médica. |
 |**RF10** |Requisito no funcional |Implementar  mecanismos  de  validación  de  datos  para asegurar la precisión y coherencia de la información ingresada en los registros médicos. |
+
 
 ## Reglas de negocio
 
@@ -124,6 +147,7 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 |**RN18** |Permitir a los profesionales de la salud acceder a la información más reciente durante la atención al paciente. |
 |**RN19** |Mantener un historial de versiones de las notas médicas para rastrear los cambios a lo largo del tiempo. |
 |**RN20** |Se deben implementar medidas de seguridad robustas, como autenticación de dos factores, para proteger la información confidencial del paciente. |
+
 
 ## Mockups
 - Modulo 1: Expedientes Medicos
