@@ -232,7 +232,7 @@ Al terminar los cálculos descritos, será posible establecer, en términos gene
 
 ## Requerimientos Funcionales
 
-**![RF](img/rf1.png)** 
+**![RF](img/fr1.png)** 
 **![RF](img/rf2.png)** 
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
