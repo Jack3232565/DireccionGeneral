@@ -68,30 +68,16 @@ Ya que las decisiones de mayor peso son una gran responsabilidad en un hospital,
 
 ![OrganigramaHospital](img/EstOrg.jpeg)
 
-|![OrganigramaHospital1](img/1.png)| 
+
+## Requerimientos funcionales
+
+|**Modulo** |**Descripción** |
+| - | - |
+|**![OrganigramaHospital1](img/1.png)** | Dentro de lo que se destaca de la organización en la estructura de la dirección general se tiene el departamento de seguimiento de calidad que vigila cada uno de los procesos llevados acabo como la atención a quejas y demandas, salva guardado de datos confidenciales de los pacientes como de archivos clínicos, y la programación y aprobación de intervenciones quirúrgicas. 
 
 Dado a la descripción anterior esta es la cabecera del hospital, de aquí se divide en dos ramales principales que son la Sub dirección Médica y Sub Dirección Administrativa. La primera engloba todos los servicios que se ejercen para la práctica médica profesional, mientras la segunda se encarga de administrar los procesos que se llevan a cabo dentro del hospital tanto como internos como externos.|
 
 
-## Requerimientos funcionales
-
-|**Código** |**Tipo de requisito** |**Descripción del requisito** |
-| - | - | - |
-|**![OrganigramaHospital1](img/1.png)** |Requisito funcional |Dentro de lo que se destaca de la organización en la estructura de la dirección general se tiene el departamento de seguimiento de calidad que vigila cada uno de los procesos llevados acabo como la atención a quejas y demandas, salva guardado de datos confidenciales de los pacientes como de archivos clínicos, y la programación y aprobación de intervenciones quirúrgicas.|
-|**RF2** |Requisito funcional |Asignación de un identificador único para cada registro. |
-|**RF3** |Requisito funcional |El sistema debe permitir a los médicos acceder y actualizar los registros médicos de los pacientes durante las consultas. |
-|**RF4** |Requisito funcional |Capacidades de búsqueda y filtrado eficientes. |
-|**RF5** |Requisito funcional |Almacenar y acceder a imágenes médicas como radiografías y resonancias magnéticas. |
-|**RF6** |Requisito funcional |Permitir  la  exportación  e  importación  de  datos  en  formatos estándar  para  facilitar  la  migración  de  datos  y  compartir información con otros sistemas. |
-|**RF7** |Requisito funcional |El  sistema  debe  permitir  el  registro  de  nuevos  pacientes, incluyendo  información  básica  como  nombre,  fecha  de nacimiento, género, dirección y datos de contacto. |
-|**RF8** |Requisito funcional |El  sistema  debe  mantener  un  historial  detallado  de  los medicamentos recetados a lo largo del tiempo. |
-|**RF9** |Requisito funcional |El  sistema  debe  permitir  la  generación  de  informes personalizados basados en datos de expedientes médicos y notas médicas para análisis clínico, auditorías y presentación de informes. |
-|**RF10** |Requisito funcional |El sistema debe mantener un registro de auditoría que registre todas las actividades de acceso y modificaciones realizadas en los expedientes médicos y notas médicas, incluyendo detalles sobre quién accedió y cuándo. |
-|**RF11** |Requisito funcional |El  sistema  debe  permitir  la  personalización  y  configuración según  las  necesidades  específicas  de la  institución  médica, incluyendo la capacidad de agregar campos personalizados, formularios y flujos de trabajo específicos. |
-|**RF12** |Requisito funcional |Los  usuarios  autorizados  deben  poder  acceder  al  historial completo de expedientes médicos y notas médicas de cada paciente para revisión y análisis. |
-|**RF13** |Requisito funcional |El sistema debe permitir la creación y gestión de  diferentes perfiles de usuario, como médicos, personal administrativo y pacientes,  cada  uno  con  diferentes  niveles  de  acceso  y privilegios. |
-|**RF14** |Requisito funcional |Ofrecer funciones de anonimización de datos para permitir el uso de información para investigaciones sin comprometer la privacidad de los pacientes. |
-|**RF15** |Requisito funcional |Permitir la inclusión y gestión de archivos adjuntos en las notas médicas, como informes de laboratorio, imágenes médicas u otros documentos relevantes. |
 
 ## Requerimientos no funcionales
 
