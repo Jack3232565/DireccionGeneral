@@ -1,13 +1,12 @@
 # Jaguar Corporation 
 
-| ![Jaguar Corporation](Img/LogosJaguarHospital.png)|
+| ![Jaguar Corporation](img/LogosJaguarHospital.png)|
 | -------------------------- |
-| Logo Empresa | Logo Hospital |
+| Logo s |
 
-# PrivilegeCare
 ## Organigrama del Equipo: 
 
- ![Organigrama](Img/OrganigramaPapusTics.png)
+ ![Organigrama](img/Arbol.png)
  
 | Nombre y Apellido| Cargo| Departamento u Organización|
 | ------------- | ------------- | ------------- |
