@@ -277,45 +277,7 @@ Este tipo de requerimientos es lo que el usuario no puede visualizar, sin embarg
 
 
 
-|**Código** |**Tipo de requisito** |**Descripción del requisito** |
-| - | - | - |
-|**RF1** |Requisito no funcional |El sistema debe garantizar tiempos de respuesta rápidos, incluso en situaciones de carga máxima, para evitar demoras en la atención médica. |
-|**RF2** |Requisito no funcional |Garantizar que la interfaz de usuario sea fácil de usar y comprender. |
-|**RF3** |Requisito no funcional |La interfaz de usuario debe ser intuitiva y fácil de usar, facilitando la adopción por parte del personal médico con di- ferentes niveles de experiencia técnica. |
-|**RF4** |Requisito no funcional |El sistema debe cumplir con regulaciones y normativas lo- cales e internacionales en materia de privacidad y seguridad de datos médicos. |
-|**RF5** |Requisito no funcional |Se deben realizar pruebas de usabilidad periódicas con el personal médico para identificar posibles mejoras en la interfaz.|
-|**RF6** |Requisito no funcional |Registro y seguimiento de la evolución de pacientes en programas de rehabilitación y terapia física. |
-|**RF7** |Requisito no funcional |Se debe mantener un registro detallado de las actividades realizadas en el sistema, facilitando la auditoría y la iden- tificación de posibles problemas de seguridad. |
-|**RF8** |Requisito no funcional |Proporcionar materiales de formación y documentación para los usuarios, asegurando que comprendan cómo utilizar el sistema de manera efectiva y segura. |
-|**RF9** |Requisito no funcional |Permitir actualizaciones del sistema sin interrupciones sig- nificativas en el servicio, especialmente durante momentos críticos de atención médica. |
-|**RF10** |Requisito no funcional |Implementar  mecanismos  de  validación  de  datos  para asegurar la precisión y coherencia de la información ingresada en los registros médicos. |
 
 
-## Reglas de negocio
-
-|***Código*** |**Reglas** |
-| - | - |
-|**RN1** |Confidencialidad de la Información: Los datos médicos de los pacientes deben ser tratados con confidencialidad y solo accesibles por personal autorizado. |
-|**RN2** |Antes de acceder al expediente médico de un paciente, el personal médico debe obtener el consentimiento informado del paciente o su representante legal. |
-|**RN3** |Registro Completo de Datos: Todo encuentro médico debe registrarse de manera completa y precisa en el expediente médico del paciente. |
-|**RN4** |Actualización Regular: Los expedientes médicos y las notas médicas deben actualizarse regularmente para reflejar con precisión el historial médico y las condiciones actuales del paciente. |
-|**RN5** |Consistencia en la Terminología: Se debe utilizar una terminología médica estandarizada y consistente en todos los registros médicos para facilitar la comprensión y el intercambio de información entre profesionales de la salud. |
-|**RN6** |Registro de Auditoría: Se debe mantener un registro de auditoría que registre todas las actividades realizadas en el sistema, incluyendo quién accedió a qué información y cuándo. |
-|**RN7** |Restricciones de Acceso por Roles: El acceso a la información médica debe estar restringido según el rol y los privilegios del usuario, limitando el acceso a la información relevante para su función. |
-|**RN8** |Integración de Resultados de Laboratorio: Los resultados de pruebas de laboratorio y otros estudios diagnósticos deben integrarse automáticamente en el expediente médico del paciente. |
-|**RN9** |Consistencia en el Formato de Notas Médicas: Las notas médicas deben seguir un formato estándar y consistente para facilitar la comprensión y el análisis. |
-|**RN10** |Deben registrarse y asociarse los resultados de pruebas de laboratorio a las historias clínicas de los pacientes. |
-|**RN11** |Deben  registrarse  de  manera  detallada  las  intervenciones  quirúrgicas, incluyendo fechas, procedimientos y profesionales involucrados. |
-|**RN12**|El sistema debe permitir la generación de informes médicos para su revisión interna o entrega a pacientes |
-|**RN13** |Se debe mantener un registro detallado de quién accede a los registros médicos y cualquier modificación realizada |
-|**RN14** |Proporcionar capacitación regular al personal médico sobre las políticas y procedimientos relacionados con la gestión de registros médicos. |
-|**RN15** |Establecer alertas y notificaciones automáticas para eventos críticos, como resultados de laboratorio anómalos o cambios significativos en el estado de salud del paciente. |
-|**RN16** |Implementar regularmente copias de seguridad de los registros médicos para garantizar la recuperación de datos en caso de fallos del sistema o pérdida de información. |
-|**RN17** |Fomentar  la  inclusión  de  notas  médicas  detalladas  que  describan  el diagnóstico, el plan de tratamiento y la evolución del paciente. |
-|**RN18** |Permitir a los profesionales de la salud acceder a la información más reciente durante la atención al paciente. |
-|**RN19** |Mantener un historial de versiones de las notas médicas para rastrear los cambios a lo largo del tiempo. |
-|**RN20** |Se deben implementar medidas de seguridad robustas, como autenticación de dos factores, para proteger la información confidencial del paciente. |
-
-
-## Mockups
-- Modulo 1: Expedientes Medicos
+## Documentación Completa
+- Dirección General **![RF](/Documentacion/)** 
