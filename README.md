@@ -7,12 +7,9 @@
 ## Organigrama del Equipo: 
 
  ![Organigrama](img/Arbol.png)
+
+ ![Funciones](img/tabla1.png)
  
-| Nombre y Apellido| Cargo| Departamento u Organización|
-| ------------- | ------------- | ------------- |
-| Arturo Aguilar Santos | Desarrollador FrontEnd / Documentador | PapusTics |
-| Jose Angel Gomez Ortiz | Desarrollador Backend / Documentador | PapusTics |
-| Justin Martin Muñoz Escorcia | Líder / DB Manager / Documentador | PapusTics |
 
 ## Objetivo General
 
