@@ -232,8 +232,16 @@ Al terminar los cálculos descritos, será posible establecer, en términos gene
 
 ## Requerimientos Funcionales
 
+Los requerimientos Funcionales son una parte esencial del proyecto, de ellos dependerá como el sistema debe funcionar de acuerdo a la configuración y distribución del entorno web, siguiendo el patrón antes mencionado en la propuesta anterior mente mencionado se explicarán alguna funciones esenciales en el maquetado web.
+
 **![RF](img/rf1.png)** 
 **![RF](img/rf2.png)** 
+
+## Requerimientos No Funcionales
+
+Este tipo de requerimientos es lo que el usuario no puede visualizar, sin embargo, son la parte clave en la configuración del sistema, obedeciendo al esquema lógico y el comportamiento esperado en la configuración de la programación.  
+
+**![RF](img/rnf1.png)** 
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
 | - | - | - |
