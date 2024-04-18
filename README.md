@@ -105,9 +105,100 @@ Cabe destacar que la administración de un hospital dependerá del nivel de aten
 
 1)	El hospital regional, destinado a proporcionar toda clase de tratamientos incluso los especializados como los de radioterapia, neurocirugía, cirugía torácica y cirugía plástica. Siempre que fuera posible, este hospital comprendería o estaría vinculado a escuelas o facultades de medicina, estratégicamente localizado en la región a fin de que todos los pacientes que necesitaran sus servicios altamente especializados pudieran ser enviados fácilmente a él. 
 
+2)	El hospital de categoría intermedia (o de distrito) con varios centenares de camas, que proporcionaría un excelente tratamiento de medicina, cirugía, obstetricia y otras especialidades. 
+
+3)	El hospital local (o rural) con 20 a 100 camas, probablemente no asignadas para enfermedades específicas, que facilitaría servicios de medicina general, cirugía y maternidad.
+
+Entre los principales factores que hay que tener en cuenta para definir la extensión de una región hospitalaria figuran los mayores centros de población, los hospitales más importantes ya establecidos y las líneas de comunicación. 
+Uno de los objetivos ha de consistir en lograr que la región sea autosuficiente en la provisión de todo tipo de servicios de atención médica, y en los casos en que se incluyan centros de radioterapia, neurocirugía y cirugía cardiaca, para los cuales se requiere un alto grado de adiestramiento, cuerpo médico muy numeroso y equipo sumamente costoso, es preciso que la región comprenda grandes núcleos de población para mantener a todo este personal y equipo plenamente ocupado, trabajando con el máximo de eficiencia para justificar los cuantiosos gastos generales que implican estos servicios. 
+
+Siempre que las comunicaciones sean aceptables, el tamaño geográfico de una región no tiene gran importancia, pero es conveniente que comprenda una población de dos a cinco millones de habitantes. 
+Conviene incluir, siempre que sea posible, un hospital universitario y colaboración con facultades de medicina dentro de cada sistema regional, para que trabaje en estrecha colaboración con el hospital de la región a fin de que pueda ejercer su influencia académica y fomentar programas de educación médica para graduados y de investigaciones en todos los hospitales de la región. 
+
+Los hospitales generales, que cuentan con una amplia variedad de servicios de especialistas, tienden a prestar tratamiento a hombres, mujeres y niños que padezcan cualquier tipo de enfermedad, con la sola excepción de las altamente infecto-contagiosas y las peligrosas, tales como la viruela.
+
+Por otra parte, el hospital no debe tener menos de 200 camas, puesto que esto dificultaría o imposibilitaría la prestación de diferentes servicios. Un hospital de 500 camas permite establecer buenos departamentos de medicina general, cirugía general, pediatría, obstetricia y psiquiatría, conjuntamente con los servicios de especialidades corrientes, de tal forma que los departamentos sean lo suficientemente grandes para que esté justificado el nombramiento de especialistas a tiempo completo o parcial. Estos habrán de ser hombres o mujeres consagrados fundamentalmente a su labor en el hospital de distrito ya que cuanto más pequeño sea el hospital general, más difícil resultará contar con el número de camas necesario para las diversas especialidades dentro de la medicina y la cirugía general.
+
+El hospital general moderno debe tener servicios para el internado de pacientes mentales, de enfermos crónicos (para el diagnóstico, evaluación, y tratamiento a corto plazo) y para aquellos que padezcan de enfermedades agudas transmisibles. Con excepción de los servicios de obstetricia, pediatría, aislamiento y psiquiatría, que requieren una planificación especial, todos los demás servicios de pacientes deben ser diseñados de acuerdo con normas uniformes, lo cual permite una mayor flexibilidad en su uso, aumenta los índices de utilización y contribuye a que el hospital pueda hacer frente mejor a las fluctuaciones estacionales en la incidencia de enfermedades.
 
 
-## Requerimientos no funcionales
+## Costos y Utilización del Hospital
+
+En un hospital bien dotado, con todos los servicios e instalaciones auxiliares, una cama puede costar tanto como lo que algunas personas ganan durante toda su vida; y su costo anual de sostenimiento equivale en muchos países a varias veces el promedio anual de los ingresos de un individuo. Por consiguiente, los hospitales pueden absorber fácilmente una proporción excesiva del presupuesto de salud de una nación, dejando muy poco disponible para los servicios preventivos más importantes, que pueden reducir considerablemente las necesidades de asistencia hospitalaria en lo futuro.
+
+Para restringir en lo posible el costo hospitalario y utilizar con el máximo de economía este costoso servicio de salud, deben observarse tres principios: 
+
+1)	Primero, el edificio no debe ser más complicado de lo necesario para que el hospital desempeñe la función que le corresponde dentro del sistema de asistencia médica. 
+2)	Segundo, sólo deben admitirse aquellos pacientes cuyas necesidades no pueden atenderse por medios más económicos.
+3)	Tercero, no debe desperdiciarse nada del tiempo que el paciente pasa en el hospital.
+
+Es muy frecuente encontrar hospitales construidos con el criterio de que se puede conseguir personal suficiente, y cuando se inauguran, salas enteras y consultorios permanecen total o parcialmente inutilizados porque no puede conseguirse el personal necesario o no se dispone del dinero indispensable para pagarlo.
+
+Los servicios de salud para la comunidad debidamente establecidos son indispensables para prevenir el despilfarro de los recursos hospitalarios. Por ello, como ya se ha indicado, antes de decidir el tamaño de un hospital que prestará servicios a una colectividad dada, debe hacerse un estudio realista de las necesidades de salud de esa colectividad. 
+El análisis inteligente de los costos de un hospital puede ser una guía valiosa para la administración del mismo. Como otros datos estadísticos, los datos de costos son onerosos y sólo deben reunirse cuando se van a emplear como un auxiliar de la administración. El primer paso es separar los costos de los pacientes hospitalizados de los ambulatorios; un segundo paso es separar los servicios proporcionados al personal de los pacientes. Es necesario establecer unidades de servicios para cada departamento, como cocinas, lavanderías, calderas, así como departamentos de anatomía patológica y de rayos X, de tal manera que puedan hacerse comparaciones provechosas entre los hospitales a base de los costos por unidad o servicio básico.
+
+Un sistema de costos tiene por objeto plantear los problemas que requieren investigación. No pueden obtenerse conclusiones acerca de la eficiencia de un hospital mediante comparaciones brutas de los costos por día de hospitalización. Deben tomarse en consideración los tipos de enfermos que han sido atendidos, y si al salir van los pacientes a sus casas, a residencias baratas para convalecientes o a otros servicios para los últimos períodos de su asistencia.
+
+Debe tomarse en consideración la eficacia del tratamiento; por ejemplo, si alguno de los pacientes tuvo que ser readmitido en el mismo hospital o en otro. Cuando los casos y la eficacia del tratamiento son similares, importa más el costo por caso tratado que el costo por día de hospitalización; en otras palabras, el tratamiento más activo y completo, aunque cuesta más por día, puede dar lugar a una reducción proporcionalmente mayor de la duración de la estancia. De este modo, un hospital aparentemente costoso puede ser en realidad más eficaz y más económico que otros.
+
+Desde el punto de vista del paciente, su ingreso en un hospital puede ser un desastre financiero. Una enfermedad grave tiene el doble efecto de hacer que el paciente gaste en servicios médicos y, al mismo tiempo, de reducir notablemente su capacidad para financiarlos (salvo, por supuesto, si el paciente disfruta de considerables ingresos, pensiones, etc.). En general, un paciente hospitalizado cuesta mucho más que uno que no necesita hospitalizarse y, como se indicó anteriormente, el costo de un día en el hospital puede ser varias veces superior a su ingreso diario normal cuando trabaja. Por esta razón y por el hecho de que la necesidad de asistencia hospitalaria es mayor entre los ancianos que entre los jóvenes, casi todos los países del mundo han establecido ciertos medios para permitir a algunos o a todos los pacientes pagar indirectamente.
+
+## Índices para evaluar la Utilización del Hospital
+
+Los diversos índices pueden calcularse con carácter bruto o especifico. Un índice bruto es el que expresa el promedio de utilización general de todos los tipos de hospital de la región. En cambio, el índice específico expresa la utilización de un tipo de hospital o de un determinado servicio dentro del hospital. Estos diversos índices pueden clasificarse en dos categorías principales: 
+
+**•	Los concernientes a datos relativos al hospital, tales como el número de camas, días de hospitalización e ingresos, altas y defunciones.**
+
+**•	Los concernientes a la población expuesta.**
+
+1.	Camas de hospital. Una cama de hospital es la que está mantenida y atendida con regularidad por personal profesional, el número total de tales camas constituye la dotación normalmente disponible del hospital.
+
+2.	Ingresos. Los ingresos se refieren al número anual de admisiones en un hospital de pacientes que van a recibir atención médica y cuya estancia se espera que dure una o más noches.
+
+3.	Altas y defunciones. El número anual de altas comprende el número de pacientes que dejan el hospital (curados, mejorados, etc.), el número de los trasladados a otras instituciones de salud o sociales y el número de los fallecidos.
+
+4.	Días de hospitalización. Es la unidad de medida que indica el servicio prestado a un paciente hospitalizado entre los censos efectuados en dos días sucesivos. A veces, el día de ingreso y el día de alta se cuentan como un día. 
+
+5.	Promedio de días de estancia. Este índice indica el período promedio de hospitalización (en días) por paciente hospitalizado.
+
+6.	Tasa de ocupación de camas. La tasa de ocupación de camas refleja la relación entre las camas usadas y las camas disponibles.
+
+7.	Intervalo de reocupación. El intervalo de reocupación expresa el período promedio de días que una cama permanece vacía, o, en otras palabras, el promedio de tiempo que transcurre entre el alta de un paciente y el ingreso del siguiente.
+
+8.	El cálculo de los índices relativos a la población expuesta. tiene por objeto saber en qué grado utiliza la población los servicios del hospital; es necesario, por tanto, conocer el número de habitantes de esa población.
+
+9.	Tasa de ingreso. La tasa de ingreso, denominada también tasa de frecuentación del hospital o de asistencia al hospital y designada se expresa de ordinario por el número de ingresos en el hospital por 1000 habitantes y por año.
+
+10.	Tasa de hospitalización por habitante. Esta tasa expresa el volumen de la hospitalización en función del número de días de hospitalización por persona y por año.
+
+
+## Índices para evaluar la Utilización del Hospital
+
+Los diversos índices pueden calcularse con carácter bruto o especifico. Un índice bruto es el que expresa el promedio de utilización general de todos los tipos de hospital de la región. En cambio, el índice específico expresa la utilización de un tipo de hospital o de un determinado servicio dentro del hospital. Estos diversos índices pueden clasificarse en dos categorías principales: 
+
+
+## Administración y Organización del Hospital
+
+Se entiende por hospital público un establecimiento o grupo de establecimientos creado y administrado por una autoridad pública. En algunos casos esta autoridad es local y corresponde a un municipio. En otros casos, puede crear y administrar el hospital público una colectividad más vasta, como un departamento, provincia o región, constituida por un número más o menos grande de municipios. En este caso, es administrado por los servicios departamentales o regionales. Finalmente, el propio Estado puede crear y dirigir el hospital público y encomendar su administración a un ministerio.
+
+La inspección pública de estos establecimientos suele ejercerse de forma más o menos semejante en los diversos niveles, por tres razones:
+
+1.	Las condiciones higiénicas están sometidas a la inspección de las autoridades de salud, y esa inspección comprende por regla general la ejecución forzosa de ciertas normas, técnicas y la inspección por el servicio de salud pública. 
+
+2.	Debe existir una coordinación entre los hospitales públicos y los privados para evitar la duplicación del equipo y de los servicios. Ello puede conseguirse determinando el número total de camas necesarias en una zona determinada y sometiendo a una autorización oficial cualquier aumento del número de camas públicas o privadas. 
+
+3.	La extensión de la atención médica a las personas indigentes y de los servicios de seguridad social a los trabajadores significa que una proporción cada vez mayor de los pacientes admitidos en los hospitales de todo tipo, dejarán de pagar la totalidad de los costos de diagnóstico y tratamiento y que los presupuestos de los hospitales públicos y privados dependerán cada vez más de los pagos del seguro de enfermedad y de otros fondos de asistencia social. Estas entidades financieras tienden naturalmente a exigir el derecho de fiscalización de las finanzas y el funcionamiento de los hospitales privados, comprendidos los de carácter comercial. Este es uno de los resultados de la incesante elevación del costo del tratamiento médico y hospitalario y conduce finalmente a la fiscalización presupuestaria por parte de las autoridades públicas.
+
+
+## Evaluación de las Necesidades
+
+Una vez establecido el número de pacientes que solicitarán atención en los diversos departamentos del hospital, se pueden calcular los requerimientos del hospital. Suponiendo que cierto número de pacientes ambulatorios se presentarán en las clínicas quirúrgicas en un mes, se podrá determinar el personal de la clínica y el número de consultorios, haciendo un cálculo del promedio de tiempo que durará cada consulta. De la misma manera, para determinar el número de camas que pueden necesitarse para medicina, cirugía, obstetricia y otros departamentos, será necesario calcular no sólo el número de pacientes que solicitarán el ingreso sino también la duración de su estancia en el hospital. A partir del número de camas y del presunto número de consultas de pacientes externos, es posible definir aproximadamente las necesidades de los departamentos del servicio médico, como los de radiodiagnóstico y laboratorio. Habrá que tener en cuenta asimismo en qué extensión se piensa poner a la disposición de los médicos generales y los departamentos de diagnóstico.
+
+En esta etapa del estudio será posible también calcular aproximadamente la "población" del hospital, comprendidos los pacientes y el personal de diversas categorías. Estas cifras son importantes porque permiten calcular aproximadamente los requerimientos de los departamentos de servicios no médicos: provisión de víveres, lavandería, almacenes, sala de calderas y otros. Los datos sobre el personal permiten también establecer previsiones para su alojamiento.
+Al terminar los cálculos descritos, será posible establecer, en términos generales, la capacidad necesaria del edificio para las diversas secciones del hospital. Será posible asimismo calcular la demanda que el hospital hará de los servicios públicos, tales como agua, electricidad, gas y alcantarillado. 
+
+
+## Administración y Organización del Hospital
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
 | - | - | - |
