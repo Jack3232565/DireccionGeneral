@@ -10,6 +10,9 @@
 
  ![Funciones](img/tabla1.png)
  
+ ## Estructura de Etapas para el Desarrollo del Proyecto
+
+ ![Funciones](img/Responsabilidad.png)
 
 ## Objetivos Generales y Específicos
 
