@@ -1,4 +1,4 @@
-# PapusTics
+# Jaguar Corporation 
 
 | ![PapusTics](Img/LogoPapusTics.png)| ![LogoHospital](Img/LogoHospital.png)|
 | ------------- | ------------- |
