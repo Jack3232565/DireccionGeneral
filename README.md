@@ -6,7 +6,7 @@
 
 ## Organigrama del Equipo: 
 
- ![Organigrama](img/Arbol.png)
+ ![Organigrama](img/Arbo2.png)
 
  ![Funciones](img/tabla1.png)
  
