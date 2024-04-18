@@ -172,7 +172,7 @@ Los diversos índices pueden calcularse con carácter bruto o especifico. Un ín
 10.	Tasa de hospitalización por habitante. Esta tasa expresa el volumen de la hospitalización en función del número de días de hospitalización por persona y por año.
 
 
-## Índices para evaluar la Utilización del Hospital
+## Índices para Evaluar la Utilización del Hospital
 
 Los diversos índices pueden calcularse con carácter bruto o especifico. Un índice bruto es el que expresa el promedio de utilización general de todos los tipos de hospital de la región. En cambio, el índice específico expresa la utilización de un tipo de hospital o de un determinado servicio dentro del hospital. Estos diversos índices pueden clasificarse en dos categorías principales: 
 
@@ -198,7 +198,7 @@ En esta etapa del estudio será posible también calcular aproximadamente la "po
 Al terminar los cálculos descritos, será posible establecer, en términos generales, la capacidad necesaria del edificio para las diversas secciones del hospital. Será posible asimismo calcular la demanda que el hospital hará de los servicios públicos, tales como agua, electricidad, gas y alcantarillado. 
 
 
-## Administración y Organización del Hospital
+## PROPUESTAS DE FRONTEND
 
 |**Código** |**Tipo de requisito** |**Descripción del requisito** |
 | - | - | - |
