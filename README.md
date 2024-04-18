@@ -2,7 +2,7 @@
 
 | ![Jaguar Corporation](img/LogosJaguarHospital.png)|
 | -------------------------- |
-| Logo s |
+| Logos |
 
 ## Organigrama del Equipo: 
 
@@ -13,6 +13,9 @@
 
 ## Objetivos Generales y Específicos
 
+<div style="text-align: center">
+   uno
+</div>
 Los servicios de hoy se han adaptado a la mejora constante de los recursos digitales, sin embargo, hay algunos modelos de negocios que se reúsan al cambio de dirección y coordinación de la modularidad de sus servicios, es por ello que el cambio podría afectar el modelo para mejorar su capacidad de organización, y es claro el enfoque a la modernidad puede pesar un poco de dependiendo a la capacidad de aprender de los sectores. El área medica no es la excepción, desde muchos años el sector salud ha tenido muy poco desarrollo y actualización en sus procesos de atención y esto es por las siguientes causas:
 La mayoría de los servicios que se prestan en un hospital deben de ser atendidos de manera inmediata sin retraso, ya que los servicios que se brindan dependen de la óptima atención de los detalles para resolver los casos médicos.
 El uso de la tecnología en la rama medica ha dado brincos altos, pero solo en las áreas de aplicación y procedimientos, no en la gestión de como debe de llevar su manera de trabajo. 
