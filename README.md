@@ -1,7 +1,7 @@
 # Jaguar Corporation 
 
-| ![PapusTics](Img/LogoPapusTics.png)| ![LogoHospital](Img/LogoHospital.png)|
-| ------------- | ------------- |
+| ![Jaguar Corporation](Img/LogosJaguarHospital.png)|
+| -------------------------- |
 | Logo Empresa | Logo Hospital |
 
 # PrivilegeCare
