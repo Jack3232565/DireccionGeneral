@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "66222599f561144d11b85ad1"
+  },
+  "Pacientes_Consulta": 32,
+  "Pacientes_Ingresados": 16,
+  "Pacientes_Recuperacion": 40,
+  "Pacientes_Alta": 25,
+  "Pacientes_Deceso": 5,
+  "Pacientes_tratamiento": 150,
+  "Pacientes_Cronicos": 40,
+  "createdAt": {
+    "$date": "2024-04-19T08:04:41.610Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:04:41.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6622264cf561144d11b85ad5"
+  },
+  "Pacientes_Consulta": 85,
+  "Pacientes_Ingresados": 20,
+  "Pacientes_Recuperacion": 14,
+  "Pacientes_Alta": 10,
+  "Pacientes_Deceso": 18,
+  "Pacientes_tratamiento": 45,
+  "Pacientes_Cronicos": 35,
+  "createdAt": {
+    "$date": "2024-04-19T08:07:40.838Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:47:36.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6622268df561144d11b85ad8"
+  },
+  "Pacientes_Consulta": 60,
+  "Pacientes_Ingresados": 26,
+  "Pacientes_Recuperacion": 35,
+  "Pacientes_Alta": 4,
+  "Pacientes_Deceso": 8,
+  "Pacientes_tratamiento": 90,
+  "Pacientes_Cronicos": 12,
+  "createdAt": {
+    "$date": "2024-04-19T08:08:45.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:08:45.279Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662226b3f561144d11b85ada"
+  },
+  "Pacientes_Consulta": 70,
+  "Pacientes_Ingresados": 5,
+  "Pacientes_Recuperacion": 15,
+  "Pacientes_Alta": 16,
+  "Pacientes_Deceso": 10,
+  "Pacientes_tratamiento": 85,
+  "Pacientes_Cronicos": 25,
+  "createdAt": {
+    "$date": "2024-04-19T08:09:23.314Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:09:23.314Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "662226f3f561144d11b85ade"
+  },
+  "Pacientes_Consulta": 85,
+  "Pacientes_Ingresados": 20,
+  "Pacientes_Recuperacion": 14,
+  "Pacientes_Alta": 10,
+  "Pacientes_Deceso": 18,
+  "Pacientes_tratamiento": 45,
+  "Pacientes_Cronicos": 35,
+  "createdAt": {
+    "$date": "2024-04-19T08:10:27.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:10:27.878Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6622271bf561144d11b85ae1"
+  },
+  "createdAt": {
+    "$date": "2024-04-19T08:11:07.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:11:07.524Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66222f83f561144d11b85ae3"
+  },
+  "createdAt": {
+    "$date": "2024-04-19T08:46:59.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-19T08:46:59.140Z"
+  }
+}]
